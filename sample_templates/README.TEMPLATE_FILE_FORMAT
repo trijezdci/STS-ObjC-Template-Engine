@@ -1,0 +1,3 @@
+ATTENTION: TEMPLATE FILES ARE IN UTF8 FORMAT!
+
+Reading the template files in any other format will cause the start and end tags used to recognise placeholders to be garbled.
